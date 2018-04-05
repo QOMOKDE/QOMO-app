@@ -1,2 +1,2 @@
-# QOMO-app
-QOMO series app development.
+# app-list
+ app development list.
